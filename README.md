@@ -5,7 +5,7 @@
 
 *A powerful, modern, and lightweight Integrated Development Environment designed to bring desktop-grade Android app development to your smartphone.*
 
-[📥 Download Latest APK](https://github.com/releases) • [🐞 Report Bug](https://github.com/issues) • [✨ Request Feature](https://github.com/issues)
+[📥 Download Latest APK](https://github.com/404sakib/Pengu-Ide-Pro-/releases/download/Pengu_Ide_Pro_v1.0.0/Pengu_IDE_Pro-debug.apk) • [🐞 Report Bug](https://github.com/issues) • [✨ Request Feature](https://github.com/issues)
 
 </div>
 
