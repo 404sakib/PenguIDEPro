@@ -3,16 +3,6 @@
 # 🐧 Pengu IDE Pro
 **Code Smarter. Build Faster. Directly on Android.**
 
-<div align="center">
-
-# 🐧 Pengu IDE Pro
-**Code Smarter. Build Faster. Directly on Android.**
-
-![Platform](https://shields.io)
-![Languages](https://shields.io)
-![License](https://shields.io)
-![Status](https://shields.io)
-
 *A powerful, modern, and lightweight Integrated Development Environment designed to bring desktop-grade Android app development to your smartphone.*
 
 [📥 Download Latest APK](https://github.com/releases) • [🐞 Report Bug](https://github.com/issues) • [✨ Request Feature](https://github.com/issues)
