@@ -1,6 +1,3 @@
-🐧 Pengu IDE Pro – Code Smarter. Build Faster. 🚀
-<img width="1672" height="941" alt="file_0000000091d882119b98e2af3e36a38e" src="https://github.com/user-attachments/assets/feb0642e-abba-42c3-a089-3b74cfdede7c" />
-
 <div align="center">
 
 # 🐧 Pengu IDE Pro
