@@ -1,78 +1,49 @@
 🐧 Pengu IDE Pro – Code Smarter. Build Faster. 🚀
 <img width="1672" height="941" alt="file_0000000091d882119b98e2af3e36a38e" src="https://github.com/user-attachments/assets/feb0642e-abba-42c3-a089-3b74cfdede7c" />
 
-Welcome to Pengu IDE Pro, a powerful, modern, fast, and lightweight Integrated Development Environment (IDE) designed to make coding easier, smarter, and more efficient. 💻✨ Whether you are a beginner learning programming or an experienced developer working on advanced projects, Pengu IDE Pro provides the essential tools and a smooth development experience to bring your ideas to life.
+<div align="center">
 
-🚀 Code Without Limits
+# 🐧 Pengu IDE Pro
+**Code Smarter. Build Faster. Directly on Android.**
 
-Pengu IDE Pro is designed with simplicity, performance, and productivity in mind. Its clean, modern, and user-friendly interface helps you focus on what matters most — writing code, building projects, and creating amazing applications. Enjoy a streamlined coding environment without unnecessary complexity.
+[![Platform](https://shields.io)](https://github.com)
+[![Language](https://shields.io)](https://github.com)
+[![License](https://shields.io)](LICENSE)
+[![Release](https://shields.io)](https://github.com/releases)
 
-⚡ Powerful Features
+*A powerful, modern, and lightweight Integrated Development Environment designed to bring desktop-grade Android app development to your smartphone.*
 
-🧠 Smart Code Completion
-Write code faster with intelligent code suggestions and completion features that help reduce repetitive typing and improve your coding workflow.
+[📥 Download Latest APK](https://github.com/releases) • [🐞 Report Bug](https://github.com/issues) • [✨ Request Feature](https://github.com/issues)
 
-🎨 Modern Code Editor
-Experience a clean and comfortable coding environment with an intuitive interface designed for better readability and productivity.
-
-🌐 Multi-Language Support
-Work with different programming languages and explore multiple development possibilities in one convenient environment.
-
-🛠️ Built-in Development Tools
-Access essential coding and development utilities to manage your projects and simplify everyday programming tasks.
-
-🐛 Debugging Support
-Identify errors, troubleshoot issues, and improve your code with debugging tools designed to make development easier.
-
-📁 Project Management
-Keep your development workspace organized. Create, import, manage, and work with your coding projects efficiently.
-
-⚡ Fast & Lightweight Performance
-Enjoy a responsive experience with a lightweight design that aims to keep your coding workflow smooth and efficient.
-
-📱 Designed for Mobile Development
-Take your development environment wherever you go. Code, manage projects, and work on your programming ideas directly from your Android device.
-
-💡 Built for Every Developer
-
-Whether you are:
-
-- 👨‍🎓 A student learning your first programming language.
-- 👨‍💻 A beginner exploring the world of software development.
-- 🧑‍🔬 A developer experimenting with new technologies.
-- 🏗️ A creator building your own applications.
-- 🚀 An enthusiast who loves coding on mobile devices.
-
-Pengu IDE Pro aims to provide a convenient environment for your development journey.
-
-🎯 Our Mission
-
-Our mission is simple: Make coding accessible, convenient, and enjoyable for everyone.
-
-We believe that great ideas should not be limited by expensive hardware or complicated development environments. That's why Pengu IDE Pro focuses on bringing useful development tools into a modern, accessible, and mobile-friendly experience.
-
-🐧 Why Pengu IDE Pro?
-
-✨ Clean and modern interface
-⚡ Fast and lightweight experience
-🧠 Intelligent coding assistance
-🌐 Multi-language development environment
-🛠️ Essential development utilities
-📂 Convenient project management
-🐛 Debugging support
-📱 Mobile-friendly coding experience
-🚀 Designed for productivity and creativity
-
-❤️ Code Your Ideas. Build Your Future.
-
-Every great application starts with a simple idea and a few lines of code. With Pengu IDE Pro, turn your creativity into code, explore new technologies, experiment with your ideas, and take your development skills to the next level.
-
-Whether you're writing your first program or working on your next big project, Pengu IDE Pro is here to make your coding journey more productive and enjoyable.
-
-🐧 Pengu IDE Pro — Your Code. Your Creativity. Your Development Journey.
-
-💻 Code Smarter. ⚡ Build Faster. 🚀 Create Without Limits.
+</div>
 
 ---
 
-Made for developers. Designed for creators. Powered by innovation. ❤️🐧
+## ✨ Key Features
+
+| Feature | Description |
+| :--- | :--- |
+| 📝 **Smart Code Editor** | Fast syntax highlighting, auto-indentation, and smooth editing for **Java, XML, and C/C++**. |
+| ⚡ **Offline Build Engine** | Compile and build APKs completely offline without needing a PC or cloud server. |
+| 📦 **Dependency Manager** | Built-in support for **Maven repositories** and offline **Local Libraries (`.aar` / `.jar`)**. |
+| 🛠️ **C/C++ NDK Support** | Create and compile native C/C++ Android projects seamlessly on mobile. |
+| 🤖 **AI Coding Assistant** | Integrated AI helper to write, debug, and optimize your code on the go. |
+| 🔐 **Release APK Signing** | Sign your production APKs with custom Keystore (`.jks` / `.keystore`) directly inside the app. |
+
+---
+
+## 🚀 Getting Started
+
+1. Go to the **[Releases](https://github.com/releases)** section and download the latest `Pengu-IDE-Pro.apk`.
+2. Install the APK on your Android device (Android 7.0+ recommended).
+3. Open **Pengu IDE Pro**, choose a template (**Empty Activity**, **AppCompat**, or **C++ Native**), and start building!
+
+---
+
+## 🤝 Contributing & Feedback
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/issues).
+
+<div align="center">
+  <sub>Built with ❤️ by <b>404sakib</b> • Code Without Limits 🚀</sub>
+</div>
